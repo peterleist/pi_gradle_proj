@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-01T08:00:50" hostname="Peterles-MacBook-4.local" time="0.012">
-  <properties/>
-  <testcase name="questionTest()" classname="test" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
